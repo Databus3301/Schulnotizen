@@ -8,4 +8,4 @@ Tags: #chemie
 - ph wert
 - neutralisierend
 - indikatoren
-- protonendonatoren/akte
+- protonendonatoren/aktzeptoren
