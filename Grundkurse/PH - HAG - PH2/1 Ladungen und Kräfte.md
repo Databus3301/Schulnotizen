@@ -14,3 +14,14 @@ $A_{kugel} = 4 · \pi · r ²$
 
 $\rho = \frac{Q}{A_{Kugel}}$ 
 $\rho = \frac{Q}{4 · \pi · r ²}$ 
+
+#### Kraftverhätnis
+Es gilt $F \propto \frac{1}{r^2}$ und $F \propto q$ und $F \propto Q$
+→ $F = \sigma \frac{q*Q}{r^2}$
+
+→ $F = \frac{1}{4\pi\epsilon_0} · \frac{q·Q}{r^2}$
+$\varepsilon_0 = 8,8542 · 10^{-12} \frac{A·s}{V·m}$
+
+Die Kraft $F_C$ einer elektrischen Ladung q auf eine andere Ladung Q im Abstand r heißt elektrische Kraft oder **Couloumb-Kraft**.
+
+ # → $F_C = \frac{1}{4\pi\varepsilon_0} · \frac{q·Q}{r^2}$

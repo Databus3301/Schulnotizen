@@ -23,6 +23,16 @@ Damit ein elektrischer Strom fließen kann müssen bewegliche geladenen Teilchen
 → Durch Zugabe vom Wasser müssen sich Ionen gebildet haben
 
 
-#### Brönsted
-Brönsteds Säure/Base Theorie
-Säuren sind Protonendonatoren
+#### Bronsted
+Bronsteds Säure/Base Theorie:
+- Protolysen:
+	- Säuren sind Protonendonatoren
+		- Oxoniumion
+	- Basen sind Protonenaktzeptoren
+		- Hydroxidion
+
+$H_2O + NH_3 ⇋ NH_4^+ + OH^-$
+
+Reaktionen bei denen Protonen übertragen werden bezeichnet man als Protolysen.
+Moleküle (z.B. Wasser), die sowohl Protonoen aufnehmen als auch abgeben können, bezeichnet man als ampholyte
+
