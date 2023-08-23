@@ -36,3 +36,9 @@ $H_2O + NH_3 ⇋ NH_4^+ + OH^-$
 Reaktionen bei denen Protonen übertragen werden bezeichnet man als Protolysen.
 Moleküle (z.B. Wasser), die sowohl Protonoen aufnehmen als auch abgeben können, bezeichnet man als ampholyte
 
+
+#### Salzsäure + Amoniak
+$HCl + NH_3 ⇋ NH_4^+ Cl^-$
+
+#### neutralisation
+$OH^- + OH_3^+ ⇋ 2H_2O$

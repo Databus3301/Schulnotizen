@@ -7,4 +7,4 @@ Tags: #physik
 # Ladungen und Kräfte
 #### Aufgaben
 a) $F_C$ = -0.000127N
-b) $F_Gr$ = 4.03326·10⁻⁴⁴ N
+b) $F_Gr$ = 4.03326·10⁻³⁴ N
