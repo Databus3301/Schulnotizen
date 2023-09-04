@@ -51,5 +51,11 @@ Tags: #geschichte
 - different ethnic groups
 - largest population in africa (7th worldwide)
 - growing market (N-11)
-- to little job
+- high rate of unemployment
+- it's name is darived from the near flowing river Niger
+- there's a large ancient wall
+- 600+ different languages 
+- 500+ ethnics groups
+- young demographic
+- 48% of the population lives in cities
 	
