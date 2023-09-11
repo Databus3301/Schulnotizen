@@ -20,3 +20,10 @@ So wie der Tiger am Ende andeutet hängt diese zufriendenheit stark von der Pers
 #### Umweltgebundenheit und Weltoffenheit
 Eine spezialisierung geht mit bestimmten Ausprägungen in bereichen wie Instinkten oder Körperbau einher, die einen eben erst spezialisiert an eine Umwelt machen. Demnach ist ein jeder Spezialisierte mehr oder weniger an seine Umwelt gebunden , da andere Umwelten mit Angepassteren ein minderes Angepasstsein für ersten beudeten würden was bekannter maßen unproduktiv im Erhalten der eigenen art ist (siehe Darwin). 
 Anders ist es allerdings mit der Weltoffenheit des menschen die als Gegenstück daraus resultiert das der Mensch eben weitestgehend unspezialisiert ist. 
+
+Gehlen würde den Tiger in seiner Angepassheit bestätigen und hinzufügen das auch ein Tiger abhängig von der Umwelt unangepasst sein kann. 
+
+#### Die Bestimmung des Menschen
+Durch seine Weltoffenheit ist der Mensch kaum festgelegt in seiner Bestimmung. Er muss sich in seiner Unspezialisiertheit mit den Herausforderungen des Überlebens beschäftigen und ist sich insofern selbst noch Aufgabe als dass seine Bestimmung nicht durch etwa seine Umwelt bestimmt ist, sondern auf Basis seines eigenen Schaffens sämtliche Formen annehmen kann.
+
+
