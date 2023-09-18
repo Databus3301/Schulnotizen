@@ -16,7 +16,7 @@ Der Magnesiumstreifen löst sich in beiden Bechergläsern gleich schnell auf, we
 Salzsäure blubbert mehr als die Essigsäure und der Magnesiumstreifen ist deutlich früher in HCL gelöst
 
 *Frage:*
-Warum reagiret Salzsäure stärker trotz gleicher Konzentration?
+Warum reagiert Salzsäure stärker trotz gleicher Konzentration?
 → Teilchenebene
 
 <a style="color:green">»1« </a>$HCl(g) + H_2O(l) → Cl^-(aq) + H_3O^+(aq)$

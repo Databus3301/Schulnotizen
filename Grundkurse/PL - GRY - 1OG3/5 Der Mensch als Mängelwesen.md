@@ -18,7 +18,7 @@ Wo Gehlen anhand biologischer Merkmale argumentiert spricht Lorenz hingegen von 
 So wie der Tiger am Ende andeutet hängt diese zufriendenheit stark von der Perspektive und dem bewusstsein über das größere ganze ab. Findet man die Freude in den kleinen dingen ohne sich mit anderen zu vergleichen, kann man zufrieden mit sich und sich selbst werden. 
 
 #### Umweltgebundenheit und Weltoffenheit
-Eine spezialisierung geht mit bestimmten Ausprägungen in bereichen wie Instinkten oder Körperbau einher, die einen eben erst spezialisiert an eine Umwelt machen. Demnach ist ein jeder Spezialisierte mehr oder weniger an seine Umwelt gebunden , da andere Umwelten mit Angepassteren ein minderes Angepasstsein für ersten beudeten würden was bekannter maßen unproduktiv im Erhalten der eigenen art ist (siehe Darwin). 
+Eine Spezialisierung geht mit bestimmten Ausprägungen in bereichen wie Instinkten oder Körperbau einher, die einen eben erst spezialisiert an eine Umwelt machen. Demnach ist ein jeder Spezialisierte mehr oder weniger an seine Umwelt gebunden , da andere Umwelten mit Angepassteren ein minderes Angepasstsein für ersten beudeten würden was bekannter maßen unproduktiv im Erhalten der eigenen Art ist (siehe Darwin). 
 Anders ist es allerdings mit der Weltoffenheit des menschen die als Gegenstück daraus resultiert das der Mensch eben weitestgehend unspezialisiert ist. 
 
 Gehlen würde den Tiger in seiner Angepassheit bestätigen und hinzufügen das auch ein Tiger abhängig von der Umwelt unangepasst sein kann. 
