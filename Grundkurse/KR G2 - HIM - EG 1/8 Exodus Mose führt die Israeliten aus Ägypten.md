@@ -32,3 +32,8 @@ Mächtig| Einflussreich
 Rächend| Weise
 Mose nah| Mose nah
 .| *Als der Ich bin da*
+
+#### Fazit
+Gott greift zu r rechten Zeit in die Geschite der Israeliten ein und befreit sein Volk aus der Slkaverei. Er steht auf der Seite der Israeliten, er ist menschenfreundlich und will keine Unterdrückung. er steht auf der Seite der Armen und Schwachen.
+Druch die Rettung am Schilfmeer bekomme die Israeliten ihre Freiheit, ihre Identität, ihre Würde und ihre Hoffnung wieder.
+
