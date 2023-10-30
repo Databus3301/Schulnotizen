@@ -6,7 +6,7 @@ Tags: #geschichte
 
 # Kaum machen wir eine Party, wird gleich Demokratie draus
 #### Zusammenfassung
-*Julirevolution*
+*Julirevolution 1830*
 - 1830 pariser König Karl dankt in Julirevolution ab
 - konstitutionelle Monarchie wird popularisiert
 - Belgien und Polen zunächst erfolgreich in einer Revolution hin zur Demokratie

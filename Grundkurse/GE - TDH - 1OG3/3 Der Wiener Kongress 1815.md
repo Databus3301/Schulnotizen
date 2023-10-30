@@ -4,7 +4,7 @@ Tags: #geschichte
 
 ---
 
-# Der Wiener Kongress
+# Der Wiener Kongress 1815
 #### Ziele des Wiener Kongresses
 - Neuordnung der Struktur Mitteleuropas nach Befreieungskriegen und Nationalbewusstsein
 - Verwaltung über den deutschen Bund
