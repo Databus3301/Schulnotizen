@@ -16,3 +16,10 @@ Tags: #english
 7. 9/11 :: A national tragedy promoting the fight against terrorism
 8. American Flags :: The importance of patriotism 
 9. The Mexican/American border :: Conservatism, the political right and unchallenged power
+
+#### finishing sentences
+1. *America is a country that…* spends $600b on mass destruction, holding  and $9b on saving humanity.   
+2. *It's a country where…* cars are more important than people
+3. *America is also a place in which…* you find the top 1% holding as much wealth as the bottom 90% under widespread capitlist liberalists ideals.
+
+#### america at it's best or worst:
