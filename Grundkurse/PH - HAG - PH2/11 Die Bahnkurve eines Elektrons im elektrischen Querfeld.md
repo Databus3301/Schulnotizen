@@ -35,3 +35,6 @@ $y(x) = \frac{U_k}{4·d·U_B}·x^2$
 #### Aufgabe Anwendung
 
 # $\frac{y· 4·d·U_B}{x^2}= {U_k}$
+
+
+$\frac{e}{m_e} = \frac{2*U_B}{B^2*r^2}$
