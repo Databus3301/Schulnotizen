@@ -25,3 +25,5 @@ Eine Reduktion ist die Aufnahme von $e^-$ .
 
 Kupferionen geben $e^-$  ab - sie werden oxidiert.
 Eine Oxidation ist die Abgabe von $e^-$ 
+
+Bei Atomen entspriche die Oxidationszahl des Ionenwerts 
