@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "255e95d959337c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b78a2181325e8762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cceee8387c239780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Docs/2 Template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "031b6d3c71a3311e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64933c6d0daa75f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bcf892a3d74978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1452d94596d09aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8b7a7217cb2fcde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "analyse",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5ae635d386ef49a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "37221885e09dc33e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb247e74e03b597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f161c2d32f675f3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4f01506e07a248a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "031b6d3c71a3311e",
+  "lastOpenFiles": [
+    "Grundkurse/PL - GRY - 1OG3/18 Aristoteles - Glück.md",
+    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/2 Die Weltwirtschaftskriese 1929-1923 - wie handelte die Regierung?.md",
+    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/3 Machtaufstieg NSDAP.md",
+    "Active Docs/2 Template.md",
+    "Pastes/Pasted image 20240626101153.png",
+    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/1 Weltwirtschaftskrise (Abi).md",
+    "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
+    "Grundkurse/PH - HAG - PH2/Physik_Hausaufgaben_2_tmp.md",
+    "Grundkurse/E - BRZ - 1OG4/Book/11 Climate activist find a way to get Germany's attentions - Stop traffic.md",
+    "Grundkurse/E - BRZ - 1OG4/Book/10 Planting the wrong trees.md",
+    "Grundkurse/E - BRZ - 1OG4/Book/3 unanswered questions at the end of scene 1.md",
+    "Grundkurse/D - GRY - 2OG2/21 Eine Buchrezension Verfassen.md",
+    "Grundkurse/KR G2 - HIM - EG 1/31 Nostra Aetate.md",
+    "Grundkurse/D - GRY - 2OG2/20 Die Großstädte und das Geistesleben.md",
+    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg/2 Wer ist schuld am Ersten Weltkrieg.md",
+    "Grundkurse/KR G2 - HIM - EG 1/30 II. Vatikanisches Konzil.md",
+    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg/Lernzettel.md",
+    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik",
+    "Grundkurse/PH - HAG - PH2/19 Spektraltafeln und andere Brechungsphänome.md",
+    "Leistungskurse/M RDK - 1OG1/Punkte in Ebenen.md",
+    "Leistungskurse/M RDK - 1OG1/4 Aufgaben 9.4.md",
+    "Grundkurse/PH - HAG - PH2/18_1 Hausaufgaben.md",
+    "Grundkurse/PH - HAG - PH2/Untitled.md",
+    "Grundkurse/PH - HAG - PH2/18 Wellengrundlagen.md",
+    "Grundkurse/PH - HAG - PH2/17 Herleitung zum Generator.md",
+    "Pastes/Pasted image 20240618095855.png",
+    "Grundkurse/E - BRZ - 1OG4/Book/9 The consequences of climate change on Kenya.md",
+    "Grundkurse/KR G2 - HIM - EG 1/29 Das Priesteramt.md",
+    "Pastes/Pasted image 20240527112146.png",
+    "Pastes/Pasted image 20240527111239.png",
+    "Pastes/Pasted image 20240527110946.png",
+    "Pastes/Pasted image 20240513113828.png",
+    "Pastes/Pasted image 20240513113811.png",
+    "Grundkurse/GE - TDH - 1OG3/Imperialismus",
+    "Grundkurse/GE - TDH - 1OG3/Industrielle Revolution",
+    "Grundkurse/GE - TDH - 1OG3/Deutsche Entstehung",
+    "Pastes/Pasted image 20240423145656.png",
+    "Pastes/Pasted image 20240416081528.png",
+    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg",
+    "Pastes/Pasted image 20240319095047.png",
+    "Grundkurse/E - BRZ - 1OG4/Book",
+    "Grundkurse/E - BRZ - 1OG4/Tradition and change in politics and society in the UK in the Eurpean context",
+    "Grundkurse/E - BRZ - 1OG4/American myths and realities - freedom and equality",
+    "Grundkurse/E - BRZ - 1OG4/Voices from the African continent - Focus on Nigeria",
+    "Grundkurse/E - BRZ - 1OG4",
+    "Untitled.canvas"
+  ]
+}
