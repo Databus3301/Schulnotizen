@@ -7,5 +7,4 @@ St.|Mo|Di|Mi|Do|Fr
 5|M|SP|GE|LI|PH
 6|KR|M|-|LI|CH
 
-
 #### notes

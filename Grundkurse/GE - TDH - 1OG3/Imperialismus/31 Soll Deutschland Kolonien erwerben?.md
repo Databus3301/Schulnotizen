@@ -26,22 +26,14 @@ Er empfindet "eine gewisse Schüchternhei
 
 #### Argumentation
 Opening Statement:
-Wir sind heute hier.
-Das war ein voll langer weg leute
-und ich wollte einfach mal sagen
-es hat gedauert bis wir hier gelandet sind
-wir
-das ist ein schönes wort
-aber wer sind wir.
+Wer sind wir als die Summe an Einlüssen die wir auf andere hatten.
+Heute sind wir ein Reich, ein Staat, eine Nation.
 
-Wir sind,
-
-Nicht imperealistisch ausbeuterische Kolonialmächte.
-Nicht nationalen Ärger anstiftende,
-militärisch Ausbeuterische.
-Wir sind nicht Schwach >:(.
-Was wir sind ist eine vereinigte Nation, ein Land, ein Reich
-
+Aber was wir nicht sind
+sind imperealistisch ausbeuterische Kolonialmächte.
+Wollen wir wirklich nationalen Ärger anstiften, militärisch Ausbeuten.
+Wollen wir wirklich neue Kolonien erschließen.
+Nein, das wollen wir nicht, nicht so.
 
 - Schutzbedürtige
 - staatliche Pflicht
