@@ -6,3 +6,6 @@ Tags: #geschichte
 
 # Machtaufstieg NSDAP
 ![[Pasted image 20240626101153.png]]
+
+
+*Zähmungspolitik*: mitregieren lassen um radikalitätsaufbau zu verhindern. "zufriendenstellen"

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "7f1ad1916e2244f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3feeec68422c180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b138f867bf2b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Docs/2 Template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "86846b42852f0a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/CH CH1+2/1 Erdöl.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7e8c8806dec4cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Destillation und Cracken.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21ff0f571764c682",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4ce96318334676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed169df7e4078b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a013417c5c5d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "697a6df729fad987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fd1f61485ddece4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb82a96357ffd09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4d63b086c4eb4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Destillation und Cracken.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bf0ff84a1f4be27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Destillation und Cracken.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33b86b67dfd380b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba661f756d8011f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Destillation und Cracken.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d7e8c8806dec4cb4",
+  "lastOpenFiles": [
+    "Grundkurse/CH CH1+2/1 Erdöl.md",
+    "2 Destillation und Cracken.md",
+    "Grundkurse/E EG3/2 From utopia to dystopia.md",
+    "Active Docs/2 Template.md",
+    "Grundkurse/E EG3/1 Visions of the future - Utopia and Dystopia.md",
+    "Grundkurse/PH PH2/1 Hallwachs-Versuch xx Photoeffekt.md",
+    "Grundkurse/GE EG2/2 30.1.1933 - Hitler wird Reichskanzler.md",
+    "Pastes/Pasted image 20240826121438.png",
+    "Pastes/Pasted image 20240823101016.png",
+    "Pastes/Pasted image 20240823100854.png",
+    "Pastes/Pasted image 20240826101027.png",
+    "Pastes/Unsaved Image 1.png",
+    "Grundkurse/PH PH2",
+    "Grundkurse/GE EG2/1 Wie war der politische Aufstieg der NSDAP möglich?.md",
+    "Grundkurse/CH CH1+2",
+    "Grundkurse/SoWI GruSys/2 Was ist die Sozialwissenschaft.md",
+    "Pastes/das_firmenschild.jpg",
+    "Pastes/Pasted image 20240823100734.png",
+    "Pastes/Pasted image 20240823100823.png",
+    "Grundkurse/SoWI GruSys/1 Themen.md",
+    "Grundkurse/SoWI GruSys",
+    "Active Docs/Untitled.md",
+    "1 Template",
+    "Grundkurse/E EG3"
+  ]
+}
