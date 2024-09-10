@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b78a2181325e8762",
+        "id": "5f1d76e96422ccdf",
         "type": "tabs",
         "children": [
           {
-            "id": "cceee8387c239780",
+            "id": "65fac3bad2d8a9fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Docs/2 Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "031b6d3c71a3311e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
+                "file": "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/11 Braucht ein Neuland keine Verfassung.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "analyse",
+                "query": "tag:#english",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 442
   },
   "right": {
     "id": "37221885e09dc33e",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
+                "file": "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/11 Braucht ein Neuland keine Verfassung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,53 +124,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "031b6d3c71a3311e",
+  "active": "65fac3bad2d8a9fe",
   "lastOpenFiles": [
-    "Grundkurse/PL - GRY - 1OG3/18 Aristoteles - Glück.md",
-    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/2 Die Weltwirtschaftskriese 1929-1923 - wie handelte die Regierung?.md",
-    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/3 Machtaufstieg NSDAP.md",
-    "Active Docs/2 Template.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/9 Der Rechtsstaat.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/8 Diskutiere Bildungspolitik auf Länderebene.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/7 Deutschland Bundestaat.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/6 Begründen.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/5 Warum es zur Demokratie keine Alternative gibt.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/4 Merkmale der Demokratie des Grundgesetztes.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/3 Demokratie in Deutschland.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/2 Urteilsfällung - Terror.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/1 Demokratie in Deutschland.md",
+    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/19 Spektraltafeln und andere Brechungsphänome.md",
+    "Q2/Leistungskurse/IF MLB2/1 Binäre Bäume.md",
+    "Q2/Leistungskurse/IF MLB2/1.md",
+    "Q2/Leistungskurse/IF MLB2/Untitled.md",
+    "Q2/Leistungskurse/IF MLB2",
+    "Q2/Leistungskurse/Untitled",
+    "Q2/Pastes/Pasted image 20240829161230.png",
+    "Q2/Pastes/Pasted image 20240829160856.png",
+    "Q2/Grundkurse/PH PH2/2 Energie von Licht.md",
+    "Q2/Grundkurse/PH PH2/Untitled.md",
+    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/18 Wellengrundlagen.md",
+    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/18_1 Hausaufgaben.md",
+    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/Physik_Hausaufgaben_2_tmp.md",
+    "Q2/Active Docs/2 Template.md",
+    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/3 Machtaufstieg NSDAP.md",
+    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/2 Die Weltwirtschaftskriese 1929-1923 - wie handelte die Regierung?.md",
+    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/1 Weltwirtschaftskrise (Abi).md",
+    "Q2/Pastes/das_firmenschild.jpg",
+    "Q2/Pastes/Pasted image 20240823101016.png",
+    "Q2/Pastes/Pasted image 20240823100854.png",
+    "Q2/Pastes/Pasted image 20240823100823.png",
+    "Q2/Pastes/Pasted image 20240823100734.png",
+    "Q2/Pasted image 20240823100734.png",
+    "Q2/Grundkurse/GE EG2/1 Wie war der politische Aufstieg der NSDAP möglich?.md",
+    "Q2/Grundkurse/GE EG2",
+    "Q2/Grundkurse/SoWI GruSys/1 Themen.md",
+    "Q2/Grundkurse/SoWI GruSys/Untitled.md",
+    "Q2/Grundkurse/SoWI GruSys",
+    "Q2/Grundkurse/E EG3/1 Visions of the future - Utopia and Dystopia.md",
+    "Q2/Pastes",
+    "Q2/Leistungskurse",
+    "Q2/Grundkurse",
+    "Q2/Active Docs",
+    "Q2",
     "Pastes/Pasted image 20240626101153.png",
-    "Grundkurse/GE - TDH - 1OG3/Weimarer Republik/1 Weltwirtschaftskrise (Abi).md",
-    "Grundkurse/PL - GRY - 1OG3/19 Utilitarismus Zusammenfassung.md",
-    "Grundkurse/PH - HAG - PH2/Physik_Hausaufgaben_2_tmp.md",
-    "Grundkurse/E - BRZ - 1OG4/Book/11 Climate activist find a way to get Germany's attentions - Stop traffic.md",
-    "Grundkurse/E - BRZ - 1OG4/Book/10 Planting the wrong trees.md",
-    "Grundkurse/E - BRZ - 1OG4/Book/3 unanswered questions at the end of scene 1.md",
-    "Grundkurse/D - GRY - 2OG2/21 Eine Buchrezension Verfassen.md",
-    "Grundkurse/KR G2 - HIM - EG 1/31 Nostra Aetate.md",
-    "Grundkurse/D - GRY - 2OG2/20 Die Großstädte und das Geistesleben.md",
-    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg/2 Wer ist schuld am Ersten Weltkrieg.md",
-    "Grundkurse/KR G2 - HIM - EG 1/30 II. Vatikanisches Konzil.md",
-    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg/Lernzettel.md",
     "Grundkurse/GE - TDH - 1OG3/Weimarer Republik",
-    "Grundkurse/PH - HAG - PH2/19 Spektraltafeln und andere Brechungsphänome.md",
-    "Leistungskurse/M RDK - 1OG1/Punkte in Ebenen.md",
-    "Leistungskurse/M RDK - 1OG1/4 Aufgaben 9.4.md",
-    "Grundkurse/PH - HAG - PH2/18_1 Hausaufgaben.md",
-    "Grundkurse/PH - HAG - PH2/Untitled.md",
-    "Grundkurse/PH - HAG - PH2/18 Wellengrundlagen.md",
-    "Grundkurse/PH - HAG - PH2/17 Herleitung zum Generator.md",
     "Pastes/Pasted image 20240618095855.png",
-    "Grundkurse/E - BRZ - 1OG4/Book/9 The consequences of climate change on Kenya.md",
-    "Grundkurse/KR G2 - HIM - EG 1/29 Das Priesteramt.md",
-    "Pastes/Pasted image 20240527112146.png",
-    "Pastes/Pasted image 20240527111239.png",
-    "Pastes/Pasted image 20240527110946.png",
-    "Pastes/Pasted image 20240513113828.png",
-    "Pastes/Pasted image 20240513113811.png",
-    "Grundkurse/GE - TDH - 1OG3/Imperialismus",
-    "Grundkurse/GE - TDH - 1OG3/Industrielle Revolution",
-    "Grundkurse/GE - TDH - 1OG3/Deutsche Entstehung",
-    "Pastes/Pasted image 20240423145656.png",
-    "Pastes/Pasted image 20240416081528.png",
-    "Grundkurse/GE - TDH - 1OG3/1. Weltkrieg",
-    "Pastes/Pasted image 20240319095047.png",
-    "Grundkurse/E - BRZ - 1OG4/Book",
-    "Grundkurse/E - BRZ - 1OG4/Tradition and change in politics and society in the UK in the Eurpean context",
-    "Grundkurse/E - BRZ - 1OG4/American myths and realities - freedom and equality",
-    "Grundkurse/E - BRZ - 1OG4/Voices from the African continent - Focus on Nigeria",
-    "Grundkurse/E - BRZ - 1OG4",
     "Untitled.canvas"
   ]
 }

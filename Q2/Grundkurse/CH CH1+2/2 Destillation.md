@@ -4,7 +4,7 @@ Tags: #chemie
 
 ---
 
-# Destillation und Cracken
+# Destillation 
 
 #### Wie funktioniert die fraktionelle Destillation?
 Im *Erdöl* befinden sich viele Alkane mit unterschiedlichen Siedepunkten.

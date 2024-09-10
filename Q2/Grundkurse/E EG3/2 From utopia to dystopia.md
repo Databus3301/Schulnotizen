@@ -7,7 +7,7 @@ Tags: #english
 # From utopia to dystopia
 #### Headings
 1. Etymology and Definition
-2. Modern Day Consolidation - Individualist influences
-3. Literacy Envisage Development
+2. Modern Consolidation - Individualist influences
+3. Development of Utopian Literature
 4. Dystopian Uprising - Reflecting History
 5. Dystopia as a critical and mobilising device

@@ -34,3 +34,6 @@ Leuchtet die Lampe auf eine positiv geladene Zinkplatte unabhängig von dem Zwis
 1. Licht kann Elektronen aus der Zinkoberfläche herauslösen. 
 2. Glas ist eine Art Filter für Licht (für bestimmte Frequenzen)
 3. Licht ist evtl. doch keine Welle!?
+
+#### Deutung
+![[Pasted image 20240909104627.png]]
