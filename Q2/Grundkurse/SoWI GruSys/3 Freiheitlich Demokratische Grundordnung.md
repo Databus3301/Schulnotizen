@@ -16,4 +16,4 @@ Die *fdGO* ist darüber hinaus allerdings von Unschärfe geprägt. Was potentiel
 
 #### Bedeutung der freiheitlich demokratischen Grundordnung
 Ich denken das die vertretenen Werte der fdGO von immenser Bedeutung sind.
-Unser Grundgesätzt baut zurecht in großen Teilen auf den Ideen dieser Ordnung und ihre Abhandenkommen könnte den Weg zu rückschrittig authoritären Strukturen ebnen, die unvereinbar mit UN-Menschenrechten und meiner Vorstellung von Freiheit und Demokratie sind. 
+Unser Grundgesetzt baut zu Recht in großen Teilen auf den Ideen dieser Ordnung und ihr Abhandenkommen könnte den Weg zu rückschrittig authoritären Strukturen ebnen, die unvereinbar mit UN-Menschenrechten und meiner Vorstellung von Freiheit und Demokratie sind. 

@@ -16,35 +16,97 @@
                 "file": "Active Docs/2 Template.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2 Template"
             }
           },
           {
-            "id": "f64ac3a4ec9128d0",
+            "id": "11086ce12bae463d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/CH CH1+2/5 Vom Alkan zum Halogenalkan.md",
+                "file": "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4 Funktionsweise einer Solarzelle"
             }
           },
           {
-            "id": "809bc2e7598cee02",
+            "id": "96fb88a213f7fb1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+                "file": "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "5 Elektronenbahnen im Atom nach Niels Bohr"
+            }
+          },
+          {
+            "id": "16bc67239c57b155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/PH PH2/6.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "6"
+            }
+          },
+          {
+            "id": "190cc914962a2618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/DE EG2/5 Romantik.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "5 Romantik"
+            }
+          },
+          {
+            "id": "8a50e603338c83fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/6 AfD Verbot - Beurteilung.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "6 AfD Verbot - Beurteilung"
+            }
+          },
+          {
+            "id": "c651dbebb03e5af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "7 AFD-Verbot Argumentenglossar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -64,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +143,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+                "file": "Grundkurse/DE EG2/6 Berichtigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +186,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6 Berichtigung"
             }
           },
           {
@@ -127,10 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+                "file": "Grundkurse/DE EG2/6 Berichtigung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6 Berichtigung"
             }
           },
           {
@@ -141,7 +213,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grundkurse/CH CH1+2/6 Erklärvideo.md"
-              }
+                "file": "Grundkurse/DE EG2/6 Berichtigung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6 Berichtigung"
             }
           }
         ]
@@ -171,46 +247,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "809bc2e7598cee02",
+  "active": "c651dbebb03e5af6",
   "lastOpenFiles": [
-    "Grundkurse/E EG3/6 Big Brother is watching you.md",
-    "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+    "Grundkurse/SoWI GruSys/6 AfD Verbot - Beurteilung.md",
+    "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
+    "Grundkurse/SoWI GruSys/2 Was ist die Sozialwissenschaft.md",
+    "Grundkurse/SoWI GruSys/3 Freiheitlich Demokratische Grundordnung.md",
+    "Grundkurse/SoWI GruSys/4 Rechtsextrem Linksextrem.md",
+    "Grundkurse/SoWI GruSys/5 Wer wählt die AfD.md",
     "Active Docs/2 Template.md",
-    "Grundkurse/CH CH1+2/5 Vom Alkan zum Halogenalkan.md",
-    "Grundkurse/CH CH1+2/Untitled.md",
-    "Grundkurse/KR EG3/1 Existenz.md",
-    "Grundkurse/KR EG3/3 Five Stages of Grief.md",
-    "Grundkurse/KR EG3/2 Stellungsnahme.md",
-    "Grundkurse/E EG3/5 \"Oryx and Crake\" (by Margaret Atwood, 2003).md",
-    "Grundkurse/DE EG2/2 Sachtextanalyse.md",
-    "Grundkurse/KR EG3/Untitled.md",
-    "Grundkurse/DE EG2/3 Sprachvarietäten - Sachtextvergleich.md",
-    "Grundkurse/DE EG2/1 Spracherwerb.md",
-    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
+    "Grundkurse/DE EG2/6 Berichtigung.md",
+    "Grundkurse/DE EG2/5 Romantik.md",
+    "Pastes/Pasted image 20241028124227.png",
+    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
+    "Grundkurse/PH PH2/6.md",
     "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
+    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
+    "Grundkurse/KR EG3/3 Five Stages of Grief.md",
+    "Grundkurse/KR EG3/4 Palliativmedizin vs Sterbehilfe.md",
+    "Pastes/Pasted image 20241008111114.png",
+    "Grundkurse/E EG3/7 Notes on the Analysis.md",
+    "Grundkurse/E EG3/6 Big Brother is watching you.md",
+    "Pastes/Pasted image 20241007124852.png",
     "Grundkurse/PH PH2/1 Hallwachs-Versuch xx Photoeffekt.md",
+    "Grundkurse/PH PH2/2 Energie von Licht.md",
+    "Grundkurse/DE EG2/4 Sprachwandel.md",
+    "Grundkurse/GE EG2/2 30.1.1933 - Hitler wird Reichskanzler.md",
+    "Grundkurse/GE EG2/7 Die NS-Außenpolitik bis 1939 - friedlich und zurückhaltend oder expansiv?.md",
+    "Grundkurse/GE EG2/6 Die Wirtschaft in der NS-Diktatur - Vorbereitung auf den Krieg?.md",
+    "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+    "Pastes/Pasted image 20240920115224.png",
+    "Grundkurse/GE EG2/5 Parallelen zur AFD.md",
+    "Grundkurse/DE EG2/3 Sprachvarietäten - Sachtextvergleich.md",
     "Pastes/Pasted image 20240909110830.png",
     "Pastes/Pasted image 20240909104627.png",
-    "Grundkurse/PH PH2/2 Energie von Licht.md",
-    "Grundkurse/CH CH1+2/4 Halogenisieren.md",
-    "Grundkurse/SoWI GruSys/3 Freiheitlich Demokratische Grundordnung.md",
-    "Grundkurse/GE EG2/4 Wie konnte die NS-Herrschaft gesichert werden? - Propaganda und Inszenierung.md",
-    "Grundkurse/SoWI GruSys/4 Rechtsextrem Linksextrem.md",
-    "Grundkurse/GE EG2/5 Parallelen zur AFD.md",
-    "Grundkurse/SoWI GruSys/2 Was ist die Sozialwissenschaft.md",
     "Pastes/Pasted image 20240905160404.png",
-    "Grundkurse/E EG3/4 Mediation - The Hungergames.md",
-    "Grundkurse/CH CH1+2/3 Mechanismus des Crackens.md",
-    "Grundkurse/E EG3/3 \"Inside the Circle\".md",
     "Pastes/Pasted image 20240903110317.png",
     "Pastes/Pasted image 20240902124514.png",
     "Pastes/Pasted image 20240902092859.png",
-    "Pastes/Pasted image 20240830160329.png",
     "Grundkurse/DE EG2",
-    "Pastes/Pasted image 20240830100336.png",
     "Leistungskurse/IF MLB2",
-    "Pastes/Pasted image 20240829161230.png",
-    "Pastes/Pasted image 20240829160856.png",
     "Grundkurse/KR EG3",
     "Grundkurse/PH PH2",
     "Grundkurse/CH CH1+2",
