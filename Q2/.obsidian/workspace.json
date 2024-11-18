@@ -22,91 +22,35 @@
             }
           },
           {
-            "id": "11086ce12bae463d",
+            "id": "3525f7b9b2132c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
+                "file": "Grundkurse/CH CH1+2/8 S_N Reaktionstypen.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4 Funktionsweise einer Solarzelle"
+              "title": "8 S_N Reaktionstypen"
             }
           },
           {
-            "id": "96fb88a213f7fb1e",
+            "id": "d1eafa340b3a8d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "5 Elektronenbahnen im Atom nach Niels Bohr"
-            }
-          },
-          {
-            "id": "16bc67239c57b155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/PH PH2/6.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "6"
-            }
-          },
-          {
-            "id": "190cc914962a2618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/DE EG2/5 Romantik.md",
+                "file": "Grundkurse/GE EG2/11 Die \"Saubere\" Wehrmacht - Rechter Populismus oder Belegbar?.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5 Romantik"
-            }
-          },
-          {
-            "id": "8a50e603338c83fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/SoWI GruSys/6 AfD Verbot - Beurteilung.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "6 AfD Verbot - Beurteilung"
-            }
-          },
-          {
-            "id": "c651dbebb03e5af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "7 AFD-Verbot Argumentenglossar"
+              "title": "11 Die \"Saubere\" Wehrmacht - Rechter Populismus oder Belegbar?"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,44 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c651dbebb03e5af6",
+  "active": "d1eafa340b3a8d75",
   "lastOpenFiles": [
-    "Grundkurse/SoWI GruSys/6 AfD Verbot - Beurteilung.md",
-    "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
-    "Grundkurse/SoWI GruSys/2 Was ist die Sozialwissenschaft.md",
-    "Grundkurse/SoWI GruSys/3 Freiheitlich Demokratische Grundordnung.md",
-    "Grundkurse/SoWI GruSys/4 Rechtsextrem Linksextrem.md",
-    "Grundkurse/SoWI GruSys/5 Wer wählt die AfD.md",
+    "Grundkurse/CH CH1+2/9 Oxidation von Alkanolen.md",
+    "Pastes/Pasted image 20241118100243.png",
+    "Pastes/Pasted image 20241118095841.png",
+    "Pastes/Pasted image 20241118093559.png",
+    "Grundkurse/CH CH1+2/8 S_N Reaktionstypen.md",
+    "Grundkurse/CH CH1+2/7 Nucleophile Substitution.md",
     "Active Docs/2 Template.md",
-    "Grundkurse/DE EG2/6 Berichtigung.md",
-    "Grundkurse/DE EG2/5 Romantik.md",
-    "Pastes/Pasted image 20241028124227.png",
-    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
-    "Grundkurse/PH PH2/6.md",
-    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
-    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
-    "Grundkurse/KR EG3/3 Five Stages of Grief.md",
-    "Grundkurse/KR EG3/4 Palliativmedizin vs Sterbehilfe.md",
-    "Pastes/Pasted image 20241008111114.png",
+    "Grundkurse/GE EG2/10 Wie wurde der Krieg an der Front erlebt?.md",
+    "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
+    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
+    "Grundkurse/GE EG2/11 Die \"Saubere\" Wehrmacht - Rechter Populismus oder Belegbar?.md",
+    "Grundkurse/E EG3/8 Sex, Gender and Identity.md",
     "Grundkurse/E EG3/7 Notes on the Analysis.md",
-    "Grundkurse/E EG3/6 Big Brother is watching you.md",
-    "Pastes/Pasted image 20241007124852.png",
-    "Grundkurse/PH PH2/1 Hallwachs-Versuch xx Photoeffekt.md",
+    "Grundkurse/DE EG2/1 Spracherwerb.md",
+    "Grundkurse/DE EG2/6 Berichtigung.md",
+    "Grundkurse/PH PH2/8 Materialanalyse anhand der Wellenlänge emittierter Photonen.md",
+    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
+    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
+    "Grundkurse/PH PH2/7 Absorption von Röntgenstrahlung.md",
+    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
     "Grundkurse/PH PH2/2 Energie von Licht.md",
-    "Grundkurse/DE EG2/4 Sprachwandel.md",
-    "Grundkurse/GE EG2/2 30.1.1933 - Hitler wird Reichskanzler.md",
+    "Grundkurse/PH PH2/6 Röntgenstrahlung.md",
+    "Grundkurse/GE EG2/9 Der 2. WK ein Vernichtungskrieg?.md",
+    "Leistungskurse/IF MLB2/1 Binäre Bäume.md",
     "Grundkurse/GE EG2/7 Die NS-Außenpolitik bis 1939 - friedlich und zurückhaltend oder expansiv?.md",
-    "Grundkurse/GE EG2/6 Die Wirtschaft in der NS-Diktatur - Vorbereitung auf den Krieg?.md",
+    "Grundkurse/GE EG2/8 Wichtige Ereignisse des Zweiten Weltkriegs.md",
+    "Grundkurse/E EG3/6 Big Brother is watching you.md",
     "Grundkurse/CH CH1+2/6 Erklärvideo.md",
+    "Pastes/Pasted image 20241028124227.png",
+    "Pastes/Pasted image 20241008111114.png",
+    "Pastes/Pasted image 20241007124852.png",
     "Pastes/Pasted image 20240920115224.png",
-    "Grundkurse/GE EG2/5 Parallelen zur AFD.md",
-    "Grundkurse/DE EG2/3 Sprachvarietäten - Sachtextvergleich.md",
     "Pastes/Pasted image 20240909110830.png",
     "Pastes/Pasted image 20240909104627.png",
     "Pastes/Pasted image 20240905160404.png",
-    "Pastes/Pasted image 20240903110317.png",
-    "Pastes/Pasted image 20240902124514.png",
-    "Pastes/Pasted image 20240902092859.png",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",
     "Grundkurse/KR EG3",
