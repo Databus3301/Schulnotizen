@@ -43,3 +43,6 @@ Nur der Zeitraum auf den 2WK bezogen, den wir behandelt haben
 trotzdem ein wenig Hintergrundwissen zur NS
 
 Groben Verlauf des Krieges, Zeitstrahl angucken, Ostfront priorisieren (Vernichtungskriegsfrage verstehen), Rolle der Wehrmacht
+
+
+genau schauen wie die Historiker meinung aussieht, **BABI YAR**
