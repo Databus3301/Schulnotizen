@@ -30,6 +30,4 @@ While studies on understanding the need of support systems are beneficial to rea
 
 Additionally, students should have all the freedom and possibilities for self discovery, which includes talking about queerness and normalising non-heteronormative ways of living, but with many in the midst of their discovery process, still uncomfortable to disclose their Indentiy or even fully closeted to avoid discrimination, a obligatory study at every school would under the current conditions would only contribute to their stress.
 
-Furthermore, implementing mandatory studies in every school could inadvertently lead to privacy concerns, as students may feel pressured to disclose personal information they are not ready to share. This could create an environment of distrust, where students might fear how their data is used or interpreted, potentially leading to further marginalization rather than support.
-
 In conclusion, while understanding the needs of students regarding sexual orientation is crucial for developing effective support systems, it is essential to balance this with respecting students' privacy and comfort. Instead of mandatory studies at every school, a more effective approach might involve voluntary participation, ensuring robust privacy protections, and focusing on creating a supportive environment where students feel safe to express their identities.

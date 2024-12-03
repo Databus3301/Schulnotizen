@@ -11,7 +11,7 @@ Erhitzt man Kupfer in der rauschenden Bunsenbrennerflamme, so bildet sich eine d
 
 Ethanol + CuO -> Ethanal (Aldehydgruppe ->  h-C=O) + Cu + $H_2O$ 
 
-> Bei der Oxidation von Ethanol entsteht das Aldehy Ethanal
+> Bei der Oxidation von Ethanol entsteht das Aldehyd Ethanal
 
 Oxidationszahlen anhand von Elektronegativität:
 (Elementarverbindungen -> 0)

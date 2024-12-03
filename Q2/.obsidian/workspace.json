@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "3525f7b9b2132c3c",
+            "id": "03d1653a43577222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/CH CH1+2/8 S_N Reaktionstypen.md",
+                "file": "Grundkurse/DE EG2/8 Gedicht Schreiben - Reihenthema \"Unterwegssein\".md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8 S_N Reaktionstypen"
+              "title": "8 Gedicht Schreiben - Reihenthema \"Unterwegssein\""
             }
           },
           {
-            "id": "d1eafa340b3a8d75",
+            "id": "9f07d5333eec0f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/GE EG2/12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945.md",
+                "file": "Grundkurse/DE EG2/9 Unterwegs in Songs.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945"
-            }
-          },
-          {
-            "id": "b3541c994049c830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/GE EG2/12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945"
+              "title": "9 Unterwegs in Songs"
             }
           }
         ],
@@ -205,44 +191,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1eafa340b3a8d75",
+  "active": "9f07d5333eec0f99",
   "lastOpenFiles": [
-    "Pastes/Pasted image 20241118112251.png",
-    "Grundkurse/GE EG2/11 Die \"Saubere\" Wehrmacht - Rechter Populismus oder Belegbar?.md",
-    "Grundkurse/GE EG2/12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945.md",
+    "Grundkurse/DE EG2/Repetition.md",
+    "Grundkurse/DE EG2/9 Unterwegs in Songs.md",
     "Active Docs/2 Template.md",
+    "Grundkurse/DE EG2/8 Gedicht Schreiben - Reihenthema \"Unterwegssein\".md",
+    "Grundkurse/E EG3/8 Sex, Gender and Identity.md",
+    "Grundkurse/GE EG2/13 Wiederholt sich die Geschichte? - Was geschah auf der Wannseekonferenz 1942?.md",
+    "Pastes/Pasted image 20241129093749.png",
+    "Pastes/Pasted image 20241129093738.png",
+    "Grundkurse/GE EG2/12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945.md",
+    "Leistungskurse/IF MLB2/5 Relationelle Datenmodelle.md",
+    "Leistungskurse/IF MLB2/4 Kardinalitäten.md",
+    "Leistungskurse/IF MLB2/Untitled.md",
+    "Grundkurse/PH PH2/9 Franck-Hertz-Versuch.md",
+    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
+    "Grundkurse/PH PH2/8 Materialanalyse anhand der Wellenlänge emittierter Photonen.md",
+    "Grundkurse/PH PH2/7 Absorption von Röntgenstrahlung.md",
+    "Grundkurse/PH PH2/6 Röntgenstrahlung.md",
+    "Pastes/Pasted image 20241128093453.png",
+    "Grundkurse/DE EG2/7 Analyse von Gedichten.md",
+    "Leistungskurse/IF MLB2/3 Datenbanken.md",
+    "Grundkurse/CH CH1+2/10 Veresterung.md",
     "Grundkurse/CH CH1+2/9 Oxidation von Alkanolen.md",
+    "Grundkurse/KR EG3/5 Interessantes Wissen über Bestattungen und Trauer.md",
+    "Grundkurse/DE EG2/6 Berichtigung.md",
+    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
+    "Leistungskurse/IF MLB2/2 Labyrinth.md",
+    "Grundkurse/KR EG3/4 Palliativmedizin vs Sterbehilfe.md",
+    "Pastes/Pasted image 20241118123033.png",
+    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
+    "Grundkurse/PH PH2/1 Hallwachs-Versuch xx Photoeffekt.md",
+    "Pastes/Pasted image 20241118112251.png",
     "Pastes/Pasted image 20241118100243.png",
     "Pastes/Pasted image 20241118095841.png",
     "Pastes/Pasted image 20241118093559.png",
-    "Grundkurse/CH CH1+2/8 S_N Reaktionstypen.md",
-    "Grundkurse/CH CH1+2/7 Nucleophile Substitution.md",
-    "Grundkurse/GE EG2/10 Wie wurde der Krieg an der Front erlebt?.md",
-    "Grundkurse/SoWI GruSys/7 AFD-Verbot Argumentenglossar.md",
-    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
-    "Grundkurse/E EG3/8 Sex, Gender and Identity.md",
-    "Grundkurse/E EG3/7 Notes on the Analysis.md",
-    "Grundkurse/DE EG2/1 Spracherwerb.md",
-    "Grundkurse/DE EG2/6 Berichtigung.md",
-    "Grundkurse/PH PH2/8 Materialanalyse anhand der Wellenlänge emittierter Photonen.md",
-    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
-    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
-    "Grundkurse/PH PH2/7 Absorption von Röntgenstrahlung.md",
-    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
-    "Grundkurse/PH PH2/2 Energie von Licht.md",
-    "Grundkurse/PH PH2/6 Röntgenstrahlung.md",
-    "Grundkurse/GE EG2/9 Der 2. WK ein Vernichtungskrieg?.md",
-    "Leistungskurse/IF MLB2/1 Binäre Bäume.md",
-    "Grundkurse/GE EG2/7 Die NS-Außenpolitik bis 1939 - friedlich und zurückhaltend oder expansiv?.md",
-    "Grundkurse/GE EG2/8 Wichtige Ereignisse des Zweiten Weltkriegs.md",
-    "Grundkurse/E EG3/6 Big Brother is watching you.md",
     "Pastes/Pasted image 20241028124227.png",
     "Pastes/Pasted image 20241008111114.png",
-    "Pastes/Pasted image 20241007124852.png",
-    "Pastes/Pasted image 20240920115224.png",
-    "Pastes/Pasted image 20240909110830.png",
-    "Pastes/Pasted image 20240909104627.png",
-    "Pastes/Pasted image 20240905160404.png",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",
     "Grundkurse/KR EG3",

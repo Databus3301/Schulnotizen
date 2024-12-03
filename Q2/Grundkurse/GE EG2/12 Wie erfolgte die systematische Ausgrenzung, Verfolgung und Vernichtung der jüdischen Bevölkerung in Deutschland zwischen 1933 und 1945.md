@@ -13,13 +13,13 @@ Tags: #geschichte
 - Reichsbürgergesetz (politischer Ausschluss)
 	- Reichsbürger ist
 		- Treue deutschem Reich besonders gewillt und geeignet 
-		- wer den Reichsbürgerbrief erhält (deutsches oder artverwandtes Blut)
-	- Nur Reichsbürger haben die vollen rechte
-- Gesetz zum Schutz des deutschen Blutes un der deutschen Ehre (sozialer Ausschluss)
+		- Wer den Reichsbürgerbrief erhält (deutsches oder artverwandtes Blut)
+	- Nur Reichsbürger haben die vollen Rechte
+- Gesetz zum Schutz des deutschen Blutes und der deutschen Ehre (sozialer Ausschluss)
 	- Keine Eheschließung zwischen Juden und "Deutschen" (auch rückwirkend)
 	- Kein außerehelicher Verkehr zwischen Juden und "Deutschen"
-	- Kein beschäftigen von u. 45 jährigen detuschen durch Juden
-	- Juden kriegen Entfaltungsfreiheit gesichert solange sie sich auf das Judentum beschränkt, ausschluss aus dem deutschem
+	- Kein beschäftigen von u. 45 jährigen deutschen durch Juden
+	- Juden kriegen Entfaltungsfreiheit gesichert solange sie sich auf das Judentum beschränkt, Ausschluss aus dem Deutschem
 
 #### Charakterisiert - AB - Nürnberger Gesetze
 Entwicklung des Umgangs mit jüdischen Bürgern vom NS-Regime ausgehend
@@ -30,7 +30,7 @@ Entwicklung des Umgangs mit jüdischen Bürgern vom NS-Regime ausgehend
 - 7.4.1933
 	- Entlassung aller Juden aus öffentlichen Ämtern
 - 1.6.1933
-	- Rechtsschucht von Juden aufgehoben 
+	- Rechtsschutz von Juden aufgehoben 
 	- Vogelfrei
 - x.7.1933
 	- russissche und polnische Juden verlieren ihre Staatsbürgerschaft
