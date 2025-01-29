@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87aec1421a7bc822",
+            "id": "bcf63d4d45090654",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,63 @@
             }
           },
           {
-            "id": "03d1653a43577222",
+            "id": "af151279844e9d70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/DE EG2/8 Gedicht Schreiben - Reihenthema \"Unterwegssein\".md",
+                "file": "Grundkurse/DE EG2/14 Universalpoetische Intertextualität in Woyzeck.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8 Gedicht Schreiben - Reihenthema \"Unterwegssein\""
+              "title": "14 Universalpoetische Intertextualität in Woyzeck"
             }
           },
           {
-            "id": "9f07d5333eec0f99",
+            "id": "0dab6e43c285e277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/DE EG2/9 Unterwegs in Songs.md",
+                "file": "Grundkurse/E EG3/13 Working and Studying in a globalized Word.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9 Unterwegs in Songs"
+              "title": "13 Working and Studying in a globalized Word"
+            }
+          },
+          {
+            "id": "6d7bf174426d9436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/11 Gerechtigkeit.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "11 Gerechtigkeit"
+            }
+          },
+          {
+            "id": "e8e430c703795ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/12 Bedingungsloses Grundeinkommen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "12 Bedingungsloses Grundeinkommen"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,44 +219,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f07d5333eec0f99",
+  "active": "e8e430c703795ea2",
   "lastOpenFiles": [
-    "Grundkurse/DE EG2/Repetition.md",
-    "Grundkurse/DE EG2/9 Unterwegs in Songs.md",
     "Active Docs/2 Template.md",
-    "Grundkurse/DE EG2/8 Gedicht Schreiben - Reihenthema \"Unterwegssein\".md",
-    "Grundkurse/E EG3/8 Sex, Gender and Identity.md",
-    "Grundkurse/GE EG2/13 Wiederholt sich die Geschichte? - Was geschah auf der Wannseekonferenz 1942?.md",
-    "Pastes/Pasted image 20241129093749.png",
-    "Pastes/Pasted image 20241129093738.png",
-    "Grundkurse/GE EG2/12 Wie erfolgte die systematische Ausgrenzung, Verfolgung und Vernichtung der jüdischen Bevölkerung in Deutschland zwischen 1933 und 1945.md",
-    "Leistungskurse/IF MLB2/5 Relationelle Datenmodelle.md",
-    "Leistungskurse/IF MLB2/4 Kardinalitäten.md",
+    "Grundkurse/SoWI GruSys/11 Gerechtigkeit.md",
+    "Grundkurse/SoWI GruSys/Untitled.md",
+    "Grundkurse/E EG3/14 The world of work and business.md",
+    "Grundkurse/E EG3/13 Working and Studying in a globalized Word.md",
+    "Leistungskurse/IF MLB2/11 Deterministische endliche Automaten.md",
+    "Grundkurse/CH CH1+2/16 Moderne Werkstoffe - Kunststoffe.md",
+    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
+    "Grundkurse/DE EG2/14 Universalpoetische Intertextualität in Woyzeck.md",
+    "Grundkurse/E EG3/12 William Shakespeare.md",
+    "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
+    "Pastes/Pasted image 20250127115315.png",
+    "Grundkurse/CH CH1+2/15 Molekülstrukturen und Eigenschaften von Triglyceriden.md",
+    "Grundkurse/CH CH1+2/Untitled.md",
+    "Grundkurse/DE EG2/13 Ideen der Romantik nachvollziehen.md",
+    "Grundkurse/PH PH2/15 Ötzi - Zerfallsformel.md",
+    "Grundkurse/KR EG3/8 Stereotypen und Medien.md",
+    "Leistungskurse/IF MLB2/10 Automaten.md",
+    "2025-01-22.md",
+    "Grundkurse/PH PH2/16.md",
+    "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
+    "Grundkurse/KR EG3/9 Interreligiöse Konsumrktik.md",
     "Leistungskurse/IF MLB2/Untitled.md",
-    "Grundkurse/PH PH2/9 Franck-Hertz-Versuch.md",
-    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
-    "Grundkurse/PH PH2/8 Materialanalyse anhand der Wellenlänge emittierter Photonen.md",
-    "Grundkurse/PH PH2/7 Absorption von Röntgenstrahlung.md",
-    "Grundkurse/PH PH2/6 Röntgenstrahlung.md",
-    "Pastes/Pasted image 20241128093453.png",
-    "Grundkurse/DE EG2/7 Analyse von Gedichten.md",
-    "Leistungskurse/IF MLB2/3 Datenbanken.md",
-    "Grundkurse/CH CH1+2/10 Veresterung.md",
-    "Grundkurse/CH CH1+2/9 Oxidation von Alkanolen.md",
-    "Grundkurse/KR EG3/5 Interessantes Wissen über Bestattungen und Trauer.md",
-    "Grundkurse/DE EG2/6 Berichtigung.md",
-    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
-    "Leistungskurse/IF MLB2/2 Labyrinth.md",
-    "Grundkurse/KR EG3/4 Palliativmedizin vs Sterbehilfe.md",
-    "Pastes/Pasted image 20241118123033.png",
-    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
-    "Grundkurse/PH PH2/1 Hallwachs-Versuch xx Photoeffekt.md",
-    "Pastes/Pasted image 20241118112251.png",
-    "Pastes/Pasted image 20241118100243.png",
-    "Pastes/Pasted image 20241118095841.png",
-    "Pastes/Pasted image 20241118093559.png",
-    "Pastes/Pasted image 20241028124227.png",
-    "Pastes/Pasted image 20241008111114.png",
+    "Active Docs/cv.md",
+    "Grundkurse/DE EG2/12 Ideen der Romantik Nachvollziehen.md",
+    "Grundkurse/E EG3/11 Stop Killing Women.md",
+    "Grundkurse/PH PH2/14 Zerfallsketten.md",
+    "Pastes/Pasted image 20250116155352.png",
+    "Pastes/Pasted image 20250113123739.png",
+    "Pastes/Pasted image 20250113122832.png",
+    "Pastes/Pasted image 20250113101953.png",
+    "Pastes/Pasted image 20250113095958.png",
+    "Pastes/Pasted image 20250113095107.png",
+    "Pastes/Pasted image 20250110121319.png",
+    "Pastes/Pasted image 20250109161558.png",
+    "Pastes/Pasted image 20250107160402.png",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",
     "Grundkurse/KR EG3",

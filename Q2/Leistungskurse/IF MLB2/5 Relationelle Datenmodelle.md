@@ -6,7 +6,7 @@ Tags: #informatik
 
 # Relationelle Datenmodelle
 
-#### Nr. 1
+#### Nr. 5 a)
 
 
 1. 
@@ -20,7 +20,7 @@ Stunden | ID
 
 Unterricht
 
-Lehrkraft | Klasse
+↑Lehrkraft | ↑Klasse
 :-:|:-:
 MV | 6a
 
@@ -75,8 +75,21 @@ Name | ID
 :-:|:-:
 Prod| qwet
 
+#### Nr. 5 b)
 
-#### Nr. 2
+Verlag(Name, Ansprechpartner, Sitz, <u>VID</u>)
+↓
+Buch(<u>ISBN</u>, Autor, Titel, Kategorie, Preis, ↑VID)
+↓
+Darstellung(lieferbar, Bewertung, ↑ISBN)
+
+Kunde(Name, Vorname, Adresse, Passwort, E-Mail, <u>Benutzername</u>)
+↓
+Bestellungen(Anzahl, Datum, ↑Benutzername, ↑ISBN, <u>Bestellnummer</u>)
+
+
+
+#### Nr. 6
 
 Agentur
 
@@ -84,30 +97,23 @@ Agentur
 :-:|:-:
 WDR | Köln
 
-
-Bestand
-
-Agentur | MID
-:-:|:-:
-WDR|3301
-
 Model
 
-<u>MID</u>| Name | Geschlecht | Vorname | Größe
-:-:|:-:|:-:|:-:|:-:
-3301|Frank|Männlich|Walter|150cm
+<u>MID</u>| Name | Geschlecht | Vorname | Größe | ↑Agentur
+:-:|:-:|:-:|:-:|:-:|:-:
+3301|Frank|Männlich|Walter|150cm|WDR
 
 
 Teilnahme
 
-MID|Shooting_ID|Honorar
+↑MID|↑Shooting_ID|Honorar
 :-:|:-:|:-:
 3301|a0|3000000€
 
 
 Shooting
 
-Termin|Ort|<u>ID</u>|Fotograf_ID|Produkt_ID
+Termin|Ort|<u>ID</u>|↑Fotograf_ID|↑Produkt_ID
 :-:|:-:|:-:|:-:|:-:
 Morgen| Bochum|a0|007|.-.,
 
@@ -124,3 +130,23 @@ Produkt
 Bezeichnung | Hersteller | <u>ID</u>
 :-:|:-:|:-:
 ShampooMAX | Bosch | .-.,
+
+
+#### Nr. 7 
+
+a)
+![[Pasted image 20241205095139.png]]
+
+b)
+
+Firma(<u>Name</u>, Ansprechpartner)
+
+Produkt(<u>PID</u>, Name, Kategorie, Brennwert)
+
+Test(↑PID, ↑ID)
+
+Produkttester(<u>ID</u>, Name, Vorname, Kategorie, Gehalt, ↑Firmen_Name)
+
+c)
+Für Löschungen auf Produkt oder Produkttester:
+ON DELETE CASCADE.
