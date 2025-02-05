@@ -22,3 +22,12 @@ Seine Position gegen das BGE selbst, beläuft sich auf das scheinbare untergrabe
 Dabei setzt Christoph Butterwege in seiner Argumentationsweise zunächst die Definition des BGE mit scheinbaren Vorteilen ein, um dann mit dem Appel zur Autoriät des (hochgelobten) Wohlfahrtstaates und Dysphemistischer Sprache eine Grundhaltung zu forcieren. Daraufhin vergleicht er die Implementation mit der Bedarfsgerechtigskeits, um aus jener Perspektive eine Ungerechtigkeit des BGE zu ermitteln. 
 
 Folglich setzt Christoph Butterwege auf die Ablehnung des BGE. Er sucht in seinem Text durch eine lose Argumentationswesie möglichst den Zuspruch der breiteren noch unentschiedenen Masse
+
+
+
+pro | contra
+:-:|:-:
+Effizienz|vvvvvvvv
+Gießkannenprinzip bedarf keiner Prüfung|
+Legitimität|vvvvvvvv
+.|Bedarfsgerecht ist es unschlüssig

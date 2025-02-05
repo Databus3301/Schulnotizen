@@ -95,6 +95,8 @@ q_3 --> q_5 : 2
 q_4 --> q_5 : 1,2
 
 q_3 --> q_A : A
+q_4 --> q_A : A
+q_5 --> q_A : A
 q_5 --> q_B : B
 
 ```
@@ -128,9 +130,10 @@ $\epsilon,01,00$
 **b)**
 
 
-# $L(A) = \{w \in \Sigma^* | w = (\epsilon + (((01)^*(00(10)^*)11))^*(\epsilon∣(..))\}$
+# $L(A) = \{w \in \Sigma^* | w = (\epsilon + (((01)^*(00(10)^*)11))^*)(\epsilon|((((01)^*(00(10)^*)(\epsilon|11))))\}$
 
 
+<br><br><br><br><br><br>
 **c)**
 $q_3$ -> Ungültige Eingabe
 
@@ -140,4 +143,4 @@ $q_3$ -> Ungültige Eingabe
 <br><br><br><br><br><br>
 
 > vollständig (-er DEA) 
-> Für jede eingabe des EA ist ein zustandsübergang definiert
+> Für jede eingabe des DEA ist ein zustandsübergang definiert

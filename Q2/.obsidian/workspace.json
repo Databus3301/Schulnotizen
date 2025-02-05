@@ -22,59 +22,59 @@
             }
           },
           {
-            "id": "af151279844e9d70",
+            "id": "3075e50b90d3ae1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/DE EG2/14 Universalpoetische Intertextualität in Woyzeck.md",
+                "file": "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "14 Universalpoetische Intertextualität in Woyzeck"
+              "title": "15 Kulturelle und literarische Strömungen zur Zeit Büchners"
             }
           },
           {
-            "id": "0dab6e43c285e277",
+            "id": "2d3f8fb34a7ee977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/E EG3/13 Working and Studying in a globalized Word.md",
+                "file": "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13 Working and Studying in a globalized Word"
+              "title": "9 Interreligiöse Konsumkritik"
             }
           },
           {
-            "id": "6d7bf174426d9436",
+            "id": "0e901aac723f9122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/SoWI GruSys/11 Gerechtigkeit.md",
+                "file": "Grundkurse/KR EG3/10 Religionsmonitor.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "11 Gerechtigkeit"
+              "title": "10 Religionsmonitor"
             }
           },
           {
-            "id": "e8e430c703795ea2",
+            "id": "58a07ac31b10c7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/SoWI GruSys/12 Bedingungsloses Grundeinkommen.md",
-                "mode": "preview",
+                "file": "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12 Bedingungsloses Grundeinkommen"
+              "title": "12 Nichtdeterministische endliche Automaten"
             }
           }
         ],
@@ -97,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -219,19 +220,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e430c703795ea2",
+  "active": "58a07ac31b10c7ef",
   "lastOpenFiles": [
     "Active Docs/2 Template.md",
+    "Grundkurse/KR EG3/10 Religionsmonitor.md",
+    "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
+    "Grundkurse/DE EG2/16 Das Werk und seine Spannungsfelder beleuchten.md",
+    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
+    "Grundkurse/SoWI GruSys/12 Bedingungsloses Grundeinkommen.md",
+    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+    "Leistungskurse/IF MLB2/11 Deterministische endliche Automaten.md",
+    "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
+    "Pastes/Pasted image 20250130153240.png",
+    "Leistungskurse/M 2OG2/1 Hausaufgaben - Abi.md",
+    "Leistungskurse/M 2OG2",
     "Grundkurse/SoWI GruSys/11 Gerechtigkeit.md",
     "Grundkurse/SoWI GruSys/Untitled.md",
     "Grundkurse/E EG3/14 The world of work and business.md",
     "Grundkurse/E EG3/13 Working and Studying in a globalized Word.md",
-    "Leistungskurse/IF MLB2/11 Deterministische endliche Automaten.md",
     "Grundkurse/CH CH1+2/16 Moderne Werkstoffe - Kunststoffe.md",
-    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
     "Grundkurse/DE EG2/14 Universalpoetische Intertextualität in Woyzeck.md",
     "Grundkurse/E EG3/12 William Shakespeare.md",
-    "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
     "Pastes/Pasted image 20250127115315.png",
     "Grundkurse/CH CH1+2/15 Molekülstrukturen und Eigenschaften von Triglyceriden.md",
     "Grundkurse/CH CH1+2/Untitled.md",
@@ -241,13 +250,7 @@
     "Leistungskurse/IF MLB2/10 Automaten.md",
     "2025-01-22.md",
     "Grundkurse/PH PH2/16.md",
-    "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
     "Grundkurse/KR EG3/9 Interreligiöse Konsumrktik.md",
-    "Leistungskurse/IF MLB2/Untitled.md",
-    "Active Docs/cv.md",
-    "Grundkurse/DE EG2/12 Ideen der Romantik Nachvollziehen.md",
-    "Grundkurse/E EG3/11 Stop Killing Women.md",
-    "Grundkurse/PH PH2/14 Zerfallsketten.md",
     "Pastes/Pasted image 20250116155352.png",
     "Pastes/Pasted image 20250113123739.png",
     "Pastes/Pasted image 20250113122832.png",
@@ -256,7 +259,6 @@
     "Pastes/Pasted image 20250113095107.png",
     "Pastes/Pasted image 20250110121319.png",
     "Pastes/Pasted image 20250109161558.png",
-    "Pastes/Pasted image 20250107160402.png",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",
     "Grundkurse/KR EG3",

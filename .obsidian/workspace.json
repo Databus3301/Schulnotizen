@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/11 Braucht ein Neuland keine Verfassung.md",
+                "file": "Schulnotizen-EF/Grundkurse/Religion - EG4 - Hager/21 Freiheit.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "21 Freiheit"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/11 Braucht ein Neuland keine Verfassung.md",
+                "file": "Schulnotizen-EF/Grundkurse/Religion - EG4 - Hager/21 Freiheit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 21 Freiheit"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -126,6 +138,24 @@
   },
   "active": "65fac3bad2d8a9fe",
   "lastOpenFiles": [
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/6 Eigenschaften der Alkane.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/5  Nomenklatur der Alkane.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/3 Pisse- Harnstoff.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/4 Organische Chemie - Die Stoffklasse der Alkane.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/2 Wiederhohlung - Bindungen.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/1 Aussichten.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/2 Wiederhohlung.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/20 Brausetabletten Wissenschaft.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/19 Das chemische Gleichgewicht.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/17 Konzentration und Oberfläche.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/14 Parfümnoten.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/11 Wasserstoffbrückenbindungen und Stoffeigenschafften.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/12 Oxidation.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/10 Eigenschaften von Ethanol als Lösungsmittel.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/9 Stoffklasse der Alkanole.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/8 Parafinöl und n-Heptan.md",
+    "Schulnotizen-EF/Grundkurse/Chemie - CH1 - Stiehm/7 Warum ziehen sich Alkanemoleküle an?.md",
+    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/11 Braucht ein Neuland keine Verfassung.md",
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/9 Der Rechtsstaat.md",
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/8 Diskutiere Bildungspolitik auf Länderebene.md",
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/7 Deutschland Bundestaat.md",
@@ -134,36 +164,18 @@
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/4 Merkmale der Demokratie des Grundgesetztes.md",
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/3 Demokratie in Deutschland.md",
     "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/2 Urteilsfällung - Terror.md",
-    "Schulnotizen-EF/Grundkurse/Sowi - EG3 - Gallinov/Politische Strukruren und Partizipation/1 Demokratie in Deutschland.md",
-    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/19 Spektraltafeln und andere Brechungsphänome.md",
-    "Q2/Leistungskurse/IF MLB2/1 Binäre Bäume.md",
-    "Q2/Leistungskurse/IF MLB2/1.md",
-    "Q2/Leistungskurse/IF MLB2/Untitled.md",
     "Q2/Leistungskurse/IF MLB2",
     "Q2/Leistungskurse/Untitled",
     "Q2/Pastes/Pasted image 20240829161230.png",
     "Q2/Pastes/Pasted image 20240829160856.png",
-    "Q2/Grundkurse/PH PH2/2 Energie von Licht.md",
-    "Q2/Grundkurse/PH PH2/Untitled.md",
-    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/18 Wellengrundlagen.md",
-    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/18_1 Hausaufgaben.md",
-    "Schulnotizen-Q1/Grundkurse/PH - HAG - PH2/Physik_Hausaufgaben_2_tmp.md",
-    "Q2/Active Docs/2 Template.md",
-    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/3 Machtaufstieg NSDAP.md",
-    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/2 Die Weltwirtschaftskriese 1929-1923 - wie handelte die Regierung?.md",
-    "Schulnotizen-Q1/Grundkurse/GE - TDH - 1OG3/Weimarer Republik/1 Weltwirtschaftskrise (Abi).md",
     "Q2/Pastes/das_firmenschild.jpg",
     "Q2/Pastes/Pasted image 20240823101016.png",
     "Q2/Pastes/Pasted image 20240823100854.png",
     "Q2/Pastes/Pasted image 20240823100823.png",
     "Q2/Pastes/Pasted image 20240823100734.png",
     "Q2/Pasted image 20240823100734.png",
-    "Q2/Grundkurse/GE EG2/1 Wie war der politische Aufstieg der NSDAP möglich?.md",
     "Q2/Grundkurse/GE EG2",
-    "Q2/Grundkurse/SoWI GruSys/1 Themen.md",
-    "Q2/Grundkurse/SoWI GruSys/Untitled.md",
     "Q2/Grundkurse/SoWI GruSys",
-    "Q2/Grundkurse/E EG3/1 Visions of the future - Utopia and Dystopia.md",
     "Q2/Pastes",
     "Q2/Leistungskurse",
     "Q2/Grundkurse",

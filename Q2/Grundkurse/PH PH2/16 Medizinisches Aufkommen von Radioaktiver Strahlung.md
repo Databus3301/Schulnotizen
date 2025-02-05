@@ -18,11 +18,11 @@ Injektion erfolgt zum Beispek bei [[16 Medizinisches Aufkommen von Radioaktiver 
 
 [Beispiele](https://medizinio.de/blog/roentgen-strahlung-ct):
 - **Röntgen** 
-	- Zahnaufnahme -> $0.01 \frac{mSv}{Jahr}$
-	- Lendenwirbelsäule -> $\approx 1.1 \frac{mSv}{Jahr}$
+	- Zahnaufnahme -> $0.01 mSv$
+	- Lendenwirbelsäule -> $\approx 1.1 mSv$
 - **CT**
-	- Schädel -> $\approx2 \frac{mSv}{Jahr}$
-	- Ateriografie -> $\approx 20 \frac{mSv}{Jahr}$
+	- Schädel -> $\approx2 mSv$
+	- Ateriografie -> $\approx 20mSv$
 - **Strahlentherapie** 
 	- Pro Sitzung:  $\approx 20000 mSv$
 	- Über die Gesamtbehandlung  $\approx 60000 mSv$
@@ -64,6 +64,8 @@ So wie bei Kernkraft ist auch die Medizin nicht ohne ihre [Unfälle](https://en.
 
 Der Therac-25 war ein Strahlentherapie-Automat, der zwischen 1985-1987 in 6 (davon 3 tödlich) Unfällen verwickelt war.
 
+![[Pasted image 20250130153240.png]]
+
 Anders als seine Vorgängermaschinen hatte der Therac-25 keine mechanischen Sicherheitsmechanismen zur fälschlichen Kombination verschiedener Modi, sondern verließ sich auf Software Implementierungen.
 
 Stellte man die Maschine erst auf Röntgen, um dann schnell auf Elektronenbeschuss zu wechseln, ließ die Software den direkten Beschuss ohne regulierung zu. Wobei der Elektronenbeschuss zur gezielten lokalisierten Strahlentherapie entwickelt wurde und dementsprechend hohe Strahlungswerte Aussand.
@@ -76,3 +78,5 @@ Und Patieten die während des beschusses aufsprangen und aus dem Behandlungszimm
 
 #### Radiojodtherapie
 Die Radiojodtherapie ist ein Therapieverfahren in der [Nuklearmedizin](https://medizinphysik.wiki/glossar/nuklearmedizin/) zur Behandlung von Erkrankungen der Schilddrüse, insbesondere bei krankhafter Schilddrüsenüberaktivität und Schilddrüsenkrebs. Zur Behandlung wird dem Patienten das radioaktive Isotop Jod-131 verabreicht, das unter Emission von Betastrahlung mit geringer Reichweite zerfällt. Nach der Resorption wird das Jod über die Blutbahn transportiert und im menschlichen Körper ausschließlich in Schilddrüsenzellen gespeichert. Nicht gespeichertes Jod wird über die Nieren abfiltriert und ausgeschieden. Diese Tatsache ermöglicht die gezielte Bestrahlung der Schilddrüse unter geringer Strahlenbelastung des restlichen Körpers. Da neben der therapeutischen β-Strahlung im Patienten auch γ-Strahlung entsteht, müssen während der Therapie zum Schutz anderer Menschen Strahlenschutzvorkehrungen getroffen werden.
+
+
