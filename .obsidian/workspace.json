@@ -11,10 +11,14 @@
             "id": "65fac3bad2d8a9fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Schulnotizen-EF/Grundkurse/Religion - EG4 - Hager/21 Freiheit.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "21 Freiheit"
             }
           }
         ]
@@ -36,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
