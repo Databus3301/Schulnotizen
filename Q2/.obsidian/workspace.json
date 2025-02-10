@@ -22,13 +22,55 @@
             }
           },
           {
-            "id": "49fa749048c111e5",
+            "id": "3075e50b90d3ae1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "15 Kulturelle und literarische Strömungen zur Zeit Büchners"
+            }
+          },
+          {
+            "id": "2d3f8fb34a7ee977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "9 Interreligiöse Konsumkritik"
+            }
+          },
+          {
+            "id": "0e901aac723f9122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/KR EG3/10 Religionsmonitor.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "10 Religionsmonitor"
+            }
+          },
+          {
+            "id": "58a07ac31b10c7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Grundkurse/GE EG2/20 Entnazifizierung und Demokratisierung in Deutschland nach 1945 – Ein Vergleich der unterschiedlichen Besatzungszonen.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -36,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,18 +220,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49fa749048c111e5",
+  "active": "58a07ac31b10c7ef",
   "lastOpenFiles": [
-    "Active Docs/2 Template.md",
     "Grundkurse/GE EG2/19 Die Nachkriegswirtschaft in den jeweiligen Besatzungszonen.md",
+    "Grundkurse/GE EG2/17 Der Widerstand.md",
     "Grundkurse/GE EG2/20 Entnazifizierung und Demokratisierung in Deutschland nach 1945 – Ein Vergleich der unterschiedlichen Besatzungszonen.md",
     "Grundkurse/GE EG2/18 Was wird aus DeutschDeutschland nach 1945.md",
-    "Grundkurse/GE EG2/17 Der Widerstand.md",
+    "Grundkurse/GE EG2/16 Deutschland nach dem Krieg.md",
+    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+    "Active Docs/2 Template.md",
     "Grundkurse/KR EG3/10 Religionsmonitor.md",
     "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
-    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
-    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
     "Grundkurse/DE EG2/16 Das Werk und seine Spannungsfelder beleuchten.md",
+    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
     "Grundkurse/SoWI GruSys/12 Bedingungsloses Grundeinkommen.md",
     "Leistungskurse/IF MLB2/11 Deterministische endliche Automaten.md",
     "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
@@ -208,7 +251,6 @@
     "Grundkurse/CH CH1+2/Untitled.md",
     "Grundkurse/DE EG2/13 Ideen der Romantik nachvollziehen.md",
     "Grundkurse/PH PH2/15 Ötzi - Zerfallsformel.md",
-    "Grundkurse/KR EG3/8 Stereotypen und Medien.md",
     "Pastes/Pasted image 20250116155352.png",
     "Pastes/Pasted image 20250113123739.png",
     "Pastes/Pasted image 20250113122832.png",
