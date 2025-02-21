@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcf63d4d45090654",
+            "id": "28b2385f5118eb65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,45 +22,45 @@
             }
           },
           {
-            "id": "5cd43be47ddd8643",
+            "id": "bd4689ebe8853aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/PH PH2/17 Massendefekt.md",
+                "file": "Grundkurse/SoWI GruSys/13 Parteiprogramme.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "17 Massendefekt"
+              "title": "13 Parteiprogramme"
             }
           },
           {
-            "id": "8702c42cd5969fe6",
+            "id": "7ccd03f024ff42be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+                "file": "Grundkurse/DE EG2/18 Vergleich Evchen ‹—› Marie.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "18 Vergleich Evchen ‹—› Marie"
+            }
+          },
+          {
+            "id": "958f3b85c412ce2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/DE EG2/19 Erörterung eines Sachtextes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12 Nichtdeterministische endliche Automaten"
-            }
-          },
-          {
-            "id": "a4c3efeab1f4bc16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/KR EG3/11 Projektarbeit.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "11 Projektarbeit"
+              "title": "19 Erörterung eines Sachtextes"
             }
           }
         ],
@@ -206,45 +206,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c3efeab1f4bc16",
+  "active": "958f3b85c412ce2d",
   "lastOpenFiles": [
+    "Pastes/Pasted image 20250221155925.png",
     "Active Docs/2 Template.md",
-    "Grundkurse/KR EG3/11 Projektarbeit.md",
-    "Grundkurse/KR EG3/10 Religionsmonitor.md",
-    "Leistungskurse/IF MLB2/13 Kellerautomaten.md",
-    "Pastes/Pasted image 20250211104410.png",
-    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
-    "Grundkurse/PH PH2/18 Kernfusion.md",
-    "Pastes/Pasted image 20250210123125.png",
-    "Grundkurse/PH PH2/17 Massendefekt.md",
-    "Grundkurse/PH PH2/12 Elektromagnetische Strahlung - Zusammenfassung.md",
-    "Grundkurse/PH PH2/11 Radioaktive Elektromagnetische Strahlung.md",
-    "Grundkurse/PH PH2/14 Zerfallsketten.md",
-    "Grundkurse/PH PH2/13 Stoffzerfall von Radioaktiven Stoffen.md",
-    "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
-    "Grundkurse/PH PH2/15 Ötzi - Zerfallsformel.md",
-    "Grundkurse/PH PH2/9 Franck-Hertz-Versuch.md",
-    "Grundkurse/GE EG2/21 BRD und DDR - Wer hat das bessere System.md",
-    "Pastes/Pasted image 20250210105043.png",
-    "Grundkurse/GE EG2/20 Entnazifizierung und Demokratisierung in Deutschland nach 1945 – Ein Vergleich der unterschiedlichen Besatzungszonen.md",
-    "Grundkurse/E EG3/15 New developments in the world of work.md",
-    "Grundkurse/KR EG3/9 Interreligiöse Konsumkritik.md",
-    "Grundkurse/DE EG2/15 Kulturelle und literarische Strömungen zur Zeit Büchners.md",
-    "Grundkurse/E EG3/16.md",
-    "Grundkurse/SoWI GruSys/13 Vermögenssteuer.md",
-    "Grundkurse/GE EG2/19 Die Nachkriegswirtschaft in den jeweiligen Besatzungszonen.md",
-    "Grundkurse/GE EG2/17 Der Widerstand.md",
-    "Grundkurse/GE EG2/18 Was wird aus DeutschDeutschland nach 1945.md",
-    "Grundkurse/GE EG2/16 Deutschland nach dem Krieg.md",
+    "Grundkurse/DE EG2/19 Erörterung eines Sachtextes.md",
+    "Grundkurse/DE EG2/18 Vergleich Evchen ‹—› Marie.md",
+    "Grundkurse/SoWI GruSys/14 Nach der Wahl.md",
+    "Pastes/Pasted image 20250221123816.png",
+    "Pastes/Pasted image 20250221123803.png",
+    "Pastes/Pasted image 20250221123752.png",
+    "Pastes/Pasted image 20250221123622.png",
+    "Pastes/Pasted image 20250221123553.png",
+    "Pastes/Pasted image 20250221123529.png",
+    "Pastes/Pasted image 20250221122014.png",
+    "Grundkurse/SoWI GruSys/13 Parteiprogramme.md",
+    "Leistungskurse/IF MLB2/16 Formale Sprachen.md",
+    "Grundkurse/GE EG2/22 Deutschland 1949 - 1989.md",
+    "Leistungskurse/IF MLB2/15 Mealy-Automat.md",
+    "Grundkurse/DE EG2/17 Evchen.md",
     "Grundkurse/DE EG2/16 Das Werk und seine Spannungsfelder beleuchten.md",
-    "Pastes/Pasted image 20250130153240.png",
+    "Grundkurse/GE EG2/21 BRD und DDR - Wer hat das bessere System.md",
+    "Pastes/Pasted image 20250220091628.png",
+    "Grundkurse/CH CH1+2/17 Polykondensation.md",
+    "Grundkurse/PH PH2/19 Das Standardmodell der Teilchenphysik.md",
+    "Pastes/Pasted image 20250217104958.png",
+    "Grundkurse/E EG3/16 Money makes the world go 'round.md",
+    "Leistungskurse/IF MLB2/14 Kellerautomaten 2.md",
+    "Grundkurse/CH CH1+2/16 Moderne Werkstoffe - Kunststoffe.md",
+    "Grundkurse/PH PH2/18 Kernfusion.md",
+    "Leistungskurse/IF MLB2/13 Kellerautomaten.md",
+    "Grundkurse/E EG3/15 New developments in the world of work.md",
+    "Grundkurse/KR EG3/11 Projektarbeit.md",
+    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
+    "Grundkurse/SoWI GruSys/1 Themen.md",
+    "Pastes/Pasted image 20250212145926.png",
+    "Grundkurse/KR EG3/10 Religionsmonitor.md",
+    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+    "Grundkurse/PH PH2/17 Massendefekt.md",
     "Leistungskurse/M 2OG2",
-    "Pastes/Pasted image 20250127115315.png",
-    "Pastes/Pasted image 20250116155352.png",
-    "Pastes/Pasted image 20250113123739.png",
-    "Pastes/Pasted image 20250113122832.png",
-    "Pastes/Pasted image 20250113101953.png",
-    "Pastes/Pasted image 20250113095958.png",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",
     "Grundkurse/KR EG3",

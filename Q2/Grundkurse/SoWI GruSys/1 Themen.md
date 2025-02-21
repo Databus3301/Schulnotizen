@@ -5,9 +5,13 @@ Tags: #sowi
 ---
 
 # Themen
-#### Vorschläge
-- Propaganda und Manipulation: Medienkompetenz
-	- Talkshow argumentate auseinander basteln
+#### Vorschläge (Revisited)
+- Medienkompetenz
+	- Talkshow-Argumente auseinanderbasteln
 - Keynesianismus vs. Neoliberalismus: Ein Vergleich
 - Zukunft der Arbeit - Sozialer Wandel - Lohnstückkosten
-- Populismus
+- Populismus ⇋ Demagogie
+- _kritische Theorie_ der _frankfurter Schule_
+- IRL
+	- "Überversicherung"
+	- 

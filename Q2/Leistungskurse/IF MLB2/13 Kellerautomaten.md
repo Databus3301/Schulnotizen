@@ -16,7 +16,6 @@ Tags: #informatik
 
 #### c)
 - Falsch, es werden für "a" immer 2 Elemente auf den Keller gelegt nachdem eines entfernt wurde
-- Falsch, es werden immer 2 Elemente vom Keller genommen
 - Falsch, bei einem Kellersymbol kann auch das Kellesymbol gelesen werden?
 
 #### d)
