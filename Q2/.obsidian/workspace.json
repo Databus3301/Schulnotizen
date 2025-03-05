@@ -22,45 +22,59 @@
             }
           },
           {
-            "id": "bd4689ebe8853aad",
+            "id": "fa18a584dd053b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/SoWI GruSys/13 Parteiprogramme.md",
+                "file": "Grundkurse/PH PH2/19 Das Standardmodell der Teilchenphysik.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13 Parteiprogramme"
+              "title": "19 Das Standardmodell der Teilchenphysik"
             }
           },
           {
-            "id": "7ccd03f024ff42be",
+            "id": "d77b074175961185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundkurse/DE EG2/18 Vergleich Evchen ‹—› Marie.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "18 Vergleich Evchen ‹—› Marie"
-            }
-          },
-          {
-            "id": "958f3b85c412ce2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundkurse/DE EG2/19 Erörterung eines Sachtextes.md",
+                "file": "Grundkurse/SoWI GruSys/14 Nach der Wahl.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19 Erörterung eines Sachtextes"
+              "title": "14 Nach der Wahl"
+            }
+          },
+          {
+            "id": "3471cecda39bd6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/15 Sozialstaat im Wandel.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "15 Sozialstaat im Wandel"
+            }
+          },
+          {
+            "id": "9e5d607ff0b52f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "8 Steuern und Sozialabgaben"
             }
           }
         ],
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vorurteile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,44 +220,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "958f3b85c412ce2d",
+  "active": "3471cecda39bd6a7",
   "lastOpenFiles": [
-    "Pastes/Pasted image 20250221155925.png",
+    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
     "Active Docs/2 Template.md",
-    "Grundkurse/DE EG2/19 Erörterung eines Sachtextes.md",
-    "Grundkurse/DE EG2/18 Vergleich Evchen ‹—› Marie.md",
+    "Grundkurse/SoWI GruSys/15 Sozialstaat im Wandel.md",
+    "Pastes/Pasted image 20250305154252.png",
+    "Pastes/Pasted image 20250305154250.png",
     "Grundkurse/SoWI GruSys/14 Nach der Wahl.md",
+    "Grundkurse/PH PH2/3 Lichquantentheorie - Einstein.md",
+    "Grundkurse/PH PH2/7 Absorption von Röntgenstrahlung.md",
+    "Grundkurse/PH PH2/5 Elektronenbahnen im Atom nach Niels Bohr.md",
+    "Grundkurse/PH PH2/4 Funktionsweise einer Solarzelle.md",
+    "Grundkurse/PH PH2/20.md",
+    "Grundkurse/PH PH2/19 Das Standardmodell der Teilchenphysik.md",
+    "Grundkurse/PH PH2/2 Energie von Licht.md",
+    "Grundkurse/PH PH2/6 Röntgenstrahlung.md",
+    "Grundkurse/PH PH2/9 Franck-Hertz-Versuch.md",
+    "Grundkurse/PH PH2/16 Medizinisches Aufkommen von Radioaktiver Strahlung.md",
+    "Grundkurse/PH PH2/15 Ötzi - Zerfallsformel.md",
+    "Grundkurse/PH PH2/14 Zerfallsketten.md",
+    "Grundkurse/PH PH2/17 Massendefekt.md",
+    "Grundkurse/PH PH2/18 Kernfusion.md",
+    "Leistungskurse/IF MLB2/10 Automaten.md",
+    "Leistungskurse/IF MLB2/11 Deterministische endliche Automaten.md",
+    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
+    "Leistungskurse/IF MLB2/13 Kellerautomaten.md",
+    "Leistungskurse/IF MLB2/14 Kellerautomaten 2.md",
+    "Leistungskurse/IF MLB2/15 Mealy-Automat.md",
+    "Leistungskurse/IF MLB2/16 Formale Sprachen.md",
+    "Leistungskurse/IF MLB2/17 Linksreguläre Sprache.md",
+    "Pastes/Pasted image 20250225110717.png",
+    "Pastes/Cognitive_Bias_Codex_With_Definitions,_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg",
+    "Pastes/Pasted image 20250225094939.png",
+    "Pastes/Pasted image 20250221155925.png",
     "Pastes/Pasted image 20250221123816.png",
     "Pastes/Pasted image 20250221123803.png",
     "Pastes/Pasted image 20250221123752.png",
     "Pastes/Pasted image 20250221123622.png",
-    "Pastes/Pasted image 20250221123553.png",
-    "Pastes/Pasted image 20250221123529.png",
-    "Pastes/Pasted image 20250221122014.png",
-    "Grundkurse/SoWI GruSys/13 Parteiprogramme.md",
-    "Leistungskurse/IF MLB2/16 Formale Sprachen.md",
-    "Grundkurse/GE EG2/22 Deutschland 1949 - 1989.md",
-    "Leistungskurse/IF MLB2/15 Mealy-Automat.md",
-    "Grundkurse/DE EG2/17 Evchen.md",
-    "Grundkurse/DE EG2/16 Das Werk und seine Spannungsfelder beleuchten.md",
-    "Grundkurse/GE EG2/21 BRD und DDR - Wer hat das bessere System.md",
-    "Pastes/Pasted image 20250220091628.png",
-    "Grundkurse/CH CH1+2/17 Polykondensation.md",
-    "Grundkurse/PH PH2/19 Das Standardmodell der Teilchenphysik.md",
-    "Pastes/Pasted image 20250217104958.png",
-    "Grundkurse/E EG3/16 Money makes the world go 'round.md",
-    "Leistungskurse/IF MLB2/14 Kellerautomaten 2.md",
-    "Grundkurse/CH CH1+2/16 Moderne Werkstoffe - Kunststoffe.md",
-    "Grundkurse/PH PH2/18 Kernfusion.md",
-    "Leistungskurse/IF MLB2/13 Kellerautomaten.md",
-    "Grundkurse/E EG3/15 New developments in the world of work.md",
-    "Grundkurse/KR EG3/11 Projektarbeit.md",
-    "Grundkurse/SoWI GruSys/8 Steuern und Sozialabgaben.md",
-    "Grundkurse/SoWI GruSys/1 Themen.md",
-    "Pastes/Pasted image 20250212145926.png",
-    "Grundkurse/KR EG3/10 Religionsmonitor.md",
-    "Leistungskurse/IF MLB2/12 Nichtdeterministische endliche Automaten.md",
-    "Grundkurse/PH PH2/17 Massendefekt.md",
     "Leistungskurse/M 2OG2",
     "Grundkurse/DE EG2",
     "Leistungskurse/IF MLB2",

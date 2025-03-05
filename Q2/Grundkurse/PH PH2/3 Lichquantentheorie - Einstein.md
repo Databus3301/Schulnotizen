@@ -21,7 +21,7 @@ Ihre unteilbarkeit macht sie Teil des Standartmodells der Physik.
 
 **Photonen entstehen**, 
 wenn Elektronen in niedrigere Energieniveaus fallen (z.B. spontane oder stimulierte Emission) oder wenn geladene Teilchen beschleunigt werden (Bremsstrahlung). 
-Sie können **vernichtet** 
+Sie können **vernichtet**
 werden, indem sie absorbiert werden oder bei **Annihilation** von Teilchenpaaren in Energie umgewandelt werden.
 
 #### Farben

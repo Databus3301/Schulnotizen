@@ -7,6 +7,42 @@ Tags: #deutsch
 # Erörterung eines Sachtextes
 
 
+
+
+#### Aufgabe 1 
+
+ In seiner Rezension thematisiert Laages die Inszenierung von „Woyzeck“ durch Leander Haußmann im Berliner Ensemble und untersucht, wie die moderne Interpretation des Dramas durch die Linse des posttraumatischen Belastungssyndroms (PTBS) neue Perspektiven auf die Charaktere und ihre Handlungen eröffnet.
+Laages beschreibt Haußmanns Ansatz, Büchners Fragment als Psychogramm eines traumatisierten Soldaten zu inszenieren, der unter dem Druck des Krieges und sozialen Zwängen zum Mörder wird. Diese Interpretation verleiht der Figur Woyzeck eine neue Dimension, indem sie seine Taten als Resultat psychischer Belastungen darstellt. Haußmanns Inszenierung nutzt die Symbolik der militärischen Disziplin und des Gruppendrucks, um die innere Zerrissenheit und Hilflosigkeit von Woyzeck darzustellen, was durch die wiederkehrenden Bilder von marschierenden Statisten verstärkt wird.
+Die Inszenierung wird von Laages als sowohl komplex als auch überzeugend beschrieben, da sie einige der ungelösten Rätsel von Büchners Werk aufgreift und durch die Einbeziehung moderner medizinischer Erkenntnisse neue Interpretationen ermöglicht. Allerdings kritisiert Laages auch die teilweise unfertige Umsetzung und die überreizten Bild-Erfindungen, die manchmal ins Lächerliche abdriften. Trotz dieser Schwächen lobt er das märchenhafte Finale, das die Fantasie des Publikums anregt und die Inszenierung auf eindrucksvolle Weise abschließt.
+Abschließend lässt sich aus Laages Rezension eine grundsätzlich positive Haltung gegenüber Haußmanns Inszenierung ableiten, trotz der kritisierten Schwächen. Die innovative Verknüpfung von klassischem Drama und modernen Themen wie PTBS wird als wertvoller Beitrag zur Theaterlandschaft angesehen, der sowohl die zeitlose Relevanz von Büchners Werk als auch die kreative Kraft der Regiearbeit unterstreicht.
+
+
+#### Aufgabe 2
+
+
+Georg Büchners Fragment "Woyzeck" ist ein zeitloses Drama, das die Abgründe der menschlichen Psyche und die sozialen Missstände seiner Zeit beleuchtet. Im Zentrum steht der Protagonist Woyzeck, ein Soldat, der durch äußeren Druck und innere Zerrissenheit zum Mörder wird. Die Frage, ob das zentrale Thema des Dramas zeitungebunden aufgefasst und inszeniert werden kann, ist von besonderem Interesse. Leander Haußmanns Inszenierung am Berliner Ensemble, die durch die Perspektive des posttraumatischen Belastungssyndroms (PTBS) geprägt ist, bietet eine moderne Deutung, die von Michael Laages in seiner Kritik beleuchtet wird.
+
+
+Büchners "Woyzeck" thematisiert die Auswirkungen sozialer Ungerechtigkeit und psychischer Belastung auf den Einzelnen. Woyzeck ist gefangen in einem Kreislauf aus Armut, Erniedrigung und seelischem Leid. Die moderne Medizin erklärt seine Taten heute mit PTBS, einem Syndrom, das durch traumatische Erlebnisse ausgelöst wird. Haußmann greift diese Diagnose auf und zeigt Woyzeck als Opfer seiner militärischen Prägung, das unter dem Druck der Gesellschaft und seinen inneren Dämonen leidet. Diese Interpretation verleiht dem Drama eine zeitlose Relevanz, da psychische Erkrankungen und ihre gesellschaftlichen Auswirkungen auch heute noch von Bedeutung sind.
+
+Haußmanns Inszenierung wird von Laages als komplex und überzeugend beschrieben, obwohl sie in einigen Aspekten unfertig wirkt. Die Darstellung des ewigen Soldaten, der durch den Gruppendruck seiner Kameraden und die Untreue seiner Geliebten in den Wahnsinn getrieben wird, ist ein starkes Bild für die zerstörerische Kraft von Krieg und sozialem Druck. Die Kritik an der Darstellung des Rummelplatzes und den überreizten Bild-Erfindungen zeigt jedoch, dass nicht alle Elemente der Inszenierung gleichermaßen gelungen sind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > TASK_1:
 > Stellen sie die aussagen des texts zu dem charakter und einigen details der insuenierung haußmanns dar und formulieren sie schlussfolgernd, welche haltung der autor m. laage zur umsetzung der dramenvorlage einnimmt
 
