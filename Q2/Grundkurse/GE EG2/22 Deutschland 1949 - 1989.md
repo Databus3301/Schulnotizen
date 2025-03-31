@@ -39,3 +39,28 @@ Die Staatssicherheit in der DDR:
 <br><br><br><br><br><br>
 #abi 
 Willy Brand - Vietnam Neuost-Politik
+
+
+
+#abi 
+Finale Prüfungstrainung
+Zentralabitir Geschichte westermann 
+
+
+"Karte Antwort schema"
+- von wegen "Beurteile inwiefern die Revolution von 1948 gescheitert ist
+
+für die Mündliche Prüfung:
+alles von Napoleon bis zur Deutschen wiedervereinigung
+
+In Teams Vorabi themen vorbereitung
+
+Eigentlich nie im Abitur: Holocaust 
+aber Nationalsizialismus häufig
+
+
+Historischer Kontext nicht nur auswendig gelertn sondern auch Quellenbezug
+Historische Urteile, Sachurteile Werturteil
+
+
+Es gibt schwerpunktthemen (die rotgefärgten sachen) aber ales relevant
